@@ -3,9 +3,9 @@
 <br>
 <p align="left">
 <b>FormAPI Examples:</b><br>
-- <a href="https://github.com/androcyber/pmmp_formapi/blob/main/examples/CustomForm.php">CustomForm example</a>.<br>
-- <a href="https://github.com/androcyber/pmmp_formapi/blob/main/examples/ModalForm.php">ModalForm example</a>.<br>
-- <a href="https://github.com/androcyber/pmmp_formapi/blob/main/examples/SimpleForm.php">SimpleForm example</a>.<br>
+- <a href="404">CustomForm example</a>.<br>
+- <a href="404">ModalForm example</a>.<br>
+- <a href="404">SimpleForm example</a>.<br>
 </p>
 
 <br>
